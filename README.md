@@ -1,6 +1,6 @@
 # NSDC-JHSC Data Science Project Repository
 
-This repository represents the collective work of the **NSDC-JHSC Data Science Team**, showcasing applied data science projects developed as part of our contribution to the **National Skill Development Corporation (NSDC)** community.
+This repository represents the collective work of the **NSDC-JHSC Data Science Team**, showcasing applied data science projects developed as part of our contribution to the **The National Student Data Corps (NSDC)** community.
 
 Our goal is to apply data-driven methodologies, machine learning, and analytical thinking to solve real-world problems and demonstrate the capabilities of our collaborative data science team.
 
@@ -61,35 +61,6 @@ This repository is part of our continuous learning and contribution initiative t
 
 ---
 
-## Repository Structure
-
-```
-DataScience-Project/
-│
-├── Air Bnb NYC/
-│   ├── Airbnb_NYC.ipynb
-│   ├── AB_NYC_2019.csv
-│   ├── The-NYC-Airbnb-Story.pptx
-│   └── README.md
-│
-├── Movie Recommedation System/
-│   ├── dataset/
-│   │   ├── u.data
-│   │   ├── u.item
-│   │   ├── u.genre
-│   │   └── u.user.txt
-│   ├── Movie_recommendation_svd.ipynb
-│   └── README.md
-│
-├── Netflix/
-│   ├── netflix1.csv
-│   ├── Netflix.ipynb
-│   └── README.md
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
 
 ---
 
@@ -116,7 +87,7 @@ Through these projects, the team aimed to:
 
 ## Team Information
 
-**Organization:** National Skill Development Corporation (NSDC)  
+**Organization:** The National Student Data Corps (NSDC) - JH
 **Team:** JHSC Data Science Division  
 **Members:** Data Science Collaborators under NSDC initiative  
 **Role:** End-to-end data project development, research, and implementation
