@@ -1,6 +1,6 @@
-# NSDC-JHSC Data Science Project Repository
+# NSDC-JH Data Science Project Repository
 
-This repository represents the collective work of the **NSDC-JHSC Data Science Team**, showcasing applied data science projects developed as part of our contribution to the **The National Student Data Corps (NSDC)** community.
+This repository represents the collective work of the **NSDC-JH Data Science Team**, showcasing applied data science projects developed as part of our contribution to the **The National Student Data Corps (NSDC)** community.
 
 Our goal is to apply data-driven methodologies, machine learning, and analytical thinking to solve real-world problems and demonstrate the capabilities of our collaborative data science team.
 
@@ -17,7 +17,7 @@ All projects are organized in their respective folders and can be run independen
 
 ## Team Contribution
 
-The **NSDC-JHSC Data Science Team** collaboratively contributed to:
+The **NSDC-JH Data Science Team** collaboratively contributed to:
 - Research and dataset exploration  
 - Designing machine learning workflows and pipelines  
 - Performing exploratory data analysis and feature engineering  
@@ -106,7 +106,7 @@ We plan to extend this repository with:
 
 ## License
 
-This repository is created and maintained by the **NSDC-JHSC Data Science Team**.  
+This repository is created and maintained by the **NSDC-JH Data Science Team**.  
 The content and code are intended for educational and research purposes within the NSDC community.
 
 ---
@@ -114,5 +114,5 @@ The content and code are intended for educational and research purposes within t
 ## Contact
 
 For queries, contributions, or collaboration:
-- **Team:** NSDC-JHSC Data Science Division  
-- **GitHub:** [NSDC-JHSC](https://github.com/NSDC-JHSC)
+- **Team:** NSDC-JH Data Science Division  
+- **GitHub:** [NSDC-JH](https://github.com/NSDC-JHSC)
